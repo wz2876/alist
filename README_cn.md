@@ -103,17 +103,6 @@
 
 AList 是一个开源软件，如果你碰巧喜欢这个项目，并希望我继续下去，请考虑赞助我或提供一个单一的捐款！感谢所有的爱和支持：https://alist.nn.ci/zh/guide/sponsor.html
 
-### Special sponsors
-
-- [找资源 - 阿里云盘资源搜索引擎](https://zhaoziyuan.la/)
-- [KinhDown 百度云盘不限速下载！永久免费！已稳定运行3年！非常可靠！Q群 -> 786799372](https://kinhdown.com)
-- [JetBrains: Essential tools for software developers and teams](https://www.jetbrains.com/)
-
-## Contributors
-
-Thanks goes to these wonderful people:
-
-[![Contributors](http://contributors.nn.ci/api?repo=alist-org/alist&repo=alist-org/alist-web&repo=alist-org/docs)](https://github.com/alist-org/alist/graphs/contributors)
 
 ## 许可
 
@@ -123,9 +112,5 @@ Thanks goes to these wonderful people:
 - 本程序为免费开源项目，旨在分享网盘文件，方便下载以及学习golang，使用时请遵守相关法律法规，请勿滥用；
 - 本程序通过调用官方sdk/接口实现，无破坏官方接口行为；
 - 本程序仅做302重定向/流量转发，不拦截、存储、篡改任何用户数据；
-- 在使用本程序之前，你应了解并承担相应的风险，包括但不限于账号被ban，下载限速等，与本程序无关；
-- 如有侵权，请通过[邮件](mailto:i@nn.ci)与我联系，会及时处理。
+- 在使用本程序之前，你应了解并承担相应的风险，包括但不限于账号被ban，下载限速等，与本程序无关.
 
----
-
-> [@博客](https://nn.ci/) · [@GitHub](https://github.com/Xhofe) · [@Telegram群](https://t.me/alist_chat) · [@Discord](https://discord.gg/F4ymsH4xv2)
